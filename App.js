@@ -80,12 +80,3 @@ const Navigation = StackNavigator({
 });
 
 export default Navigation;
-
-// const styles = StyleSheet.create({
-//   container: {
-//     marginTop: 30,
-//     flex: 1,
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   }
-// });
