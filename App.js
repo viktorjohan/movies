@@ -63,7 +63,7 @@ class SecondScreen extends React.Component {
     var {params} = this.props.navigation.state;
     return (
       <View style={{flex: 1, alignItems: 'center', padding: 28, backgroundColor: '#17202B'}}>
-        <Animatable.Image animation="fadeInUp" source={{uri: 'https://image.tmdb.org/t/p/w500' + params.poster}} style={{width: "60%", height: 300, marginBottom: 20}}/>
+        <Animatable.Image animation="fadeInUp" source={{uri: 'https://image.tmdb.org/t/p/w500' + params.poster}} style={{width: "59%", height: 300, marginBottom: 20}}/>
         <Animatable.Text animation="fadeIn" style={{marginBottom: 18, fontFamily: 'Avenir', fontSize: 14, color: '#EBEEF2'}}>{params.over}</Animatable.Text>
         <View style={{flex: 1, flexDirection: 'row'}}>
           <Image source={{uri: 'http://diylogodesigns.com/blog/wp-content/uploads/2016/02/IMDb-Movies-TV-logo-design-for-apps.png'}} style={{width: 36, height: 36}} />
