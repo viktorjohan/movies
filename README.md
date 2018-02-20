@@ -1,4 +1,6 @@
-![](http://25.media.tumblr.com/tumblr_m58tyvNzVb1rwuq4jo1_500.gif)
+<p align="center">
+  <img height="300" src="moviescreenshot.png" />
+</p>
 
 ### Description
 
