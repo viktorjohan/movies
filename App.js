@@ -39,7 +39,7 @@ constructor() {
         </View>
         {this.state.data.map(function(item, i){
           return (
-            <View style={{flex: 1, alignItems: 'center', backgroundColor: '#262F3C', marginLeft: 30, marginRight: 30, marginTop: 9, marginBottom: 9}} key={i}>
+            <View style={{flex: 1, alignItems: 'center', backgroundColor: '#262F3C', marginLeft: 30, marginRight: 30, marginTop: 9, marginBottom: 9, borderRadius: 50}} key={i}>
               <Button
                 containerStyle={{marginTop: 6, marginBottom: 6, paddingLeft: 9, paddingRight: 9}}
                 style={{textAlign: 'center', fontSize: 18, fontFamily: 'AvenirNext-Heavy', color: '#EBEEF2'}}
