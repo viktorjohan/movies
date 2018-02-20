@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="moviescreenshot.png" />
+  <img height="380" src="moviescreenshot.png" />
 </p>
 
 ### Description
